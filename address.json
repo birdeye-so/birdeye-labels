@@ -371,5 +371,10 @@
         "entity": "raydium",
         "name": "Raydium",
         "logo": ""
+    },
+    "GXtd2izAiMJPwMEjfgTRH3d7k9mjn4Jq3JrWFv9gySYy": {
+        "entity": "zk_compression_token_escrow",
+        "name": "ZK Compression Token Escrow",
+        "logo": ""
     }
 }
