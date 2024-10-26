@@ -376,5 +376,20 @@
         "entity": "zk_compression_token_escrow",
         "name": "ZK Compression Token Escrow",
         "logo": ""
+    },
+    "5GSueFApScDJiHAB3gvpdefkETDcjambwG1ts5sH4GC7": {
+        "entity": "Gold Nuggets Escrow",
+        "name": "Gold Nuggets Escrow",
+        "logo": ""
+    },
+    "FWinXujhDCRvFcv7f68y6tecotC2EcL2gZVTGrWSRWJj": {
+        "entity": "FusionPhD Escrow",
+        "name": "FusionPhD Escrow",
+        "logo": ""
+    },
+    "BNcFfBManEU3o69Xmz3MYrTbPK4T4SUW8PCrz487FTz2": {
+        "entity": "License Escrow",
+        "name": "License Escrow",
+        "logo": ""
     }
 }
