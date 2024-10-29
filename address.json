@@ -391,5 +391,20 @@
         "entity": "License Escrow",
         "name": "License Escrow",
         "logo": ""
+    },
+    "9nD5AenzdbhRqWo7JufdNBbC4VjZ5QH7jzLuvPZy2rhb": {
+        "entity": "Staked ADX",
+        "name": "Staked ADX",
+        "logo": ""
+    },
+    "2Yo2isNPU785Hem1rZFpQtFjAiv2mBDPn5Rc3JTyWTQd": {
+        "entity": "Pending ALP Rewards",
+        "name": "Pending ALP Rewards",
+        "logo": ""
+    },
+    "BoFFg5oAbbgWmLfQ7rQB4hXPQH9QmuFwDBEDeAkbq8Ws": {
+        "entity": "Pending ADX Rewards",
+        "name": "Pending ADX Rewards",
+        "logo": ""
     }
 }
