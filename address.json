@@ -406,5 +406,41 @@
         "entity": "Dev Wallet - $Trump",
         "name": "Dev Wallet - $Trump",
         "logo": ""
+    },
+    "3BEvopNQ89zkM4r6ADva18i5fao1sqR1pmswyQyfj838": {
+        "entity": "Epicentral DAO Main Treasury",
+        "name": "Epicentral DAO Main Treasury",
+        "logo": ""
+    },
+    "5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42": {
+        "entity": "Epicentral DAO Staked Tokens",
+        "name": "Epicentral DAO Staked Tokens",
+        "logo": ""
+    },
+    "2gb7eFNMsmWhYQzfo7mrbJCxng2LhSzmbLo3j3VgLF1L": {
+        "entity": "Streamflow Vesting (LABS) Contract",
+        "name": "Streamflow Vesting (LABS) Contract",
+        "logo": ""
+    },
+    "F5LBZCetsfcg2XYjitGbhgXp1fPgnTNG5xiF4FTptuRr": {
+        "entity": "Meteora (LABS) Vault Authority",
+        "name": "Meteora (LABS) Vault Authority",
+        "logo": ""
+    },
+    "BsuJFZZqmvy8MF3Ccfervot2mWp8xrrSGD18ETorRy7B": {
+        "entity": "Streamflow Vesting (LABS) Contract",
+        "name": "Streamflow Vesting (LABS) Contract",
+        "logo": ""
+    },
+    "6yuntQAS5gSwhhKaXG3QYbcwXPxhsbULu9Tzv9mizUUm": {
+        "entity": "Epicentral DAO Rewards Treasury",
+        "name": "Epicentral DAO Rewards Treasury",
+        "logo": ""
+    },
+    "6tpxdCf56XZQbdieLFZGDgaWpefc6SZPGy9Sg6MqYVRB": {
+        "entity": "Epicentral DAO Marketing Treasury",
+        "name": "Epicentral DAO Marketing Treasury",
+        "logo": ""
     }
+    
 }
