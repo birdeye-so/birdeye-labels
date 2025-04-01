@@ -406,5 +406,10 @@
         "entity": "Dev Wallet - $Trump",
         "name": "Dev Wallet - $Trump",
         "logo": ""
+    },
+    "C15KQag8ZMT4A6d2X4WVw8UTTd1BBJ2EEfGc5JBaew6S": {
+        "entity": "Escrow",
+        "name": "Escrow",
+        "logo": ""
     }
 }
