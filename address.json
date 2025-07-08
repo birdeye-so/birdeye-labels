@@ -466,5 +466,50 @@
         "entity": "Flash.Trade: Protocol Multisig",
         "name": "Flash.Trade: Protocol Multisig",
         "logo": ""
+    },
+    "3cMFG8FJbFiwQTuR9FugrcqCazUtnuDPzZh6pzyVNaGw": {
+        "entity": "Burned Wallet",
+        "name": "Burned Wallet",
+        "logo": "",
+    },
+    "GcEuwbu1RtJziWF3LPJLVrT7DT2x9iLgV8jFEsYeMeHA": {
+        "entity": "Locked",
+        "name": "Locked",
+        "logo": "",
+    },
+    "BUuP762fyD4VWoMacr25wuc1wq9HhitVAZXnDrgiWvxE": {
+        "entity": "Locked",
+        "name": "Locked",
+        "logo": "",
+    },
+    "9PqYHRUg6kwwvLpXRFryMU1MPP5MagmaN3YZDdykKFXW": {
+        "entity": "Ecosystem Wallet",
+        "name": "Ecosystem Wallet",
+        "logo": ""
+    },
+    "EXqYZtA1d4Nx2WjYuQ1GvdeujFM8VbvmjfdmJBJj7guc": {
+        "entity": "NFT Pool #1 Gold Bricks",
+        "name": "NFT Pool #1 Gold Bricks",
+        "logo": ""
+    },
+    "5GSueFApScDJiHAB3gvpdefkETDcjambwG1ts5sH4GC7": {
+        "entity": "NFT Pool #2 Gold Nuggets",
+        "name": "NFT Pool #2 Gold Nuggets",
+        "logo": ""
+    },
+    "dK3N1EFpvbGHuY9suUK478toLvT6DGxTBhEBnTichgf": {
+        "entity": "NFT Pool #3 Gold Bricks Reloaded",
+        "name": "NFT Pool #3 Gold Bricks Reloaded",
+        "logo": ""
+    },
+    "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": {
+        "entity": "Raydium LP",
+        "name": "Raydium LP",
+        "logo": ""
+    },
+    "44o8nJoEUAzhHUHij76j4T5U8ve6zPh3yaw3hi9aZ2LY": {
+        "entity": "ORCA LP",
+        "name": "ORCA LP",
+        "logo": ""
     }
 }
