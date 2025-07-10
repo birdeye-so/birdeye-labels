@@ -1,0 +1,19 @@
+name: Validate address.json
+
+on:
+  push:
+    paths:
+      - 'address.json'
+  pull_request:
+    paths:
+      - 'address.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate address.json
+        run: jq empty address.json
