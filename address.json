@@ -511,5 +511,10 @@
         "entity": "ORCA LP",
         "name": "ORCA LP",
         "logo": ""
+    },
+    "G9XfJoY81n8A9bZKaJFhJYomRrcvFkuJ22em2g8rZuCh": {
+        "entity": "Staking Contract",
+        "name": "Staking Contract",
+        "logo": ""
     }
 }
