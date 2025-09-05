@@ -516,5 +516,10 @@
         "entity": "Staking Contract",
         "name": "Staking Contract",
         "logo": ""
+    },
+    "Cst5bqk7QJAj1tR7qH9eiYnT7ygDEashKYTFvV1obRGK": {
+        "entity": "MineBridge",
+        "name": "MineBridge",
+        "logo": ""
     }
 }
