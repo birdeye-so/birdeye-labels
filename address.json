@@ -516,5 +516,10 @@
         "entity": "Staking Contract",
         "name": "Staking Contract",
         "logo": ""
+    },
+    "8nqwCnKw6WdASJ9ps6bke1gEmpVR8ejfFphP9VQz9UQX": {
+        "entity": "Liquidity Provision Wallet",
+        "name": "Liquidity Provision Wallet",
+        "logo": ""
     }
 }
