@@ -666,5 +666,10 @@
         "entity": "$ACKE / SOL Raydium CLMM Pool (Immutable PDA-Owned)",
         "name": "$ACKE / SOL Raydium CLMM Pool (Immutable PDA-Owned)",
         "logo": ""
+    },
+    "E3fogcQKbQ3wx3hiGYPQLGqh9q493e46rDHRq9g6nnCd":{
+        "entity": "FusionAMM (UNTIL-USDC) Market",
+        "name": "FusionAMM (UNTIL-USDC) Market",
+        "logo": "" 
     }
 }
