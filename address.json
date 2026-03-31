@@ -671,5 +671,10 @@
         "entity": "FusionAMM (UNTIL-USDC) Market",
         "name": "FusionAMM (UNTIL-USDC) Market",
         "logo": "" 
+    },
+    "GySFHFS5ZiN4Z5YnyPZcjjxpYcGvD7qHZYVjE9QzMHVH":{
+        "entity": "BP Non-Circulating Supply",
+        "name": "BP Non-Circulating Supply",
+        "logo": "" 
     }
 }
