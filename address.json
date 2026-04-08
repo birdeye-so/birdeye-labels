@@ -676,5 +676,15 @@
         "entity": "BP Non-Circulating Supply",
         "name": "BP Non-Circulating Supply",
         "logo": "" 
+    },
+    "CE4S6594sNE9hGMVzA3SLBHqWcdr1MwL3MW8DL1MWxm7":{
+        "entity": "StreamFlow 2050",
+        "name": "StreamFlow 2050",
+        "logo": "" 
+    },
+    "2KvpGNfqwv1SSGCW1wRy8Lpch5fSmWhAeYXJa8UTkxgT":{
+        "entity": "PumpSwap UNTIL-WSOL LP",
+        "name": "PumpSwap UNTIL-WSOL LP",
+        "logo": "" 
     }
 }
