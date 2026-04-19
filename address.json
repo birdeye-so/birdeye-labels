@@ -686,5 +686,20 @@
         "entity": "PumpSwap UNTIL-WSOL LP",
         "name": "PumpSwap UNTIL-WSOL LP",
         "logo": "" 
+    },
+    "0xb77726291b125515d0a7affeea2b04f2ff243172":{
+        "entity": "Main Proxy",
+        "name": "Main Proxy",
+        "logo": "" 
+    },
+    "0x576cbcde3fe704b2166e8fac54d7a664b0325c10":{
+        "entity": "Multicall",
+        "name": "Multicall",
+        "logo": "" 
+    },
+    "0x4f71680e5ccff8ad3a0a8c1fb1ae40c77232ff24":{
+        "entity": "Staking",
+        "name": "Staking",
+        "logo": "" 
     }
 }
